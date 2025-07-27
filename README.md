@@ -21,3 +21,7 @@ No installation required! Just clone the repository and open the HTML file in yo
 git clone https://github.com/your-username/concrete-estimator.git
 cd concrete-estimator
 open index.html  # or double-click it
+
+---
+
+Let me know if you’d like a company-branded version or to include links to real-world bid templates. You can copy-paste this into a file named `README.md` and drop it into the root of your GitHub repo.
